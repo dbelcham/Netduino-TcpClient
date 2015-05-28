@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>Igloocoder.MF.TcpClient</id>
-        <version>0.0.1</version>
+        <version>0.0.4</version>
         <title>Igloocoder Micro Framework TcpClient</title>
         <authors>Donald Belcham</authors>
         <owners>Donald Belcham</owners>
@@ -14,14 +14,14 @@
         <language>en-CA</language>
     </metadata>
     <files>
-        <file src="src\bin\Release\be\Igloocoder.MF.TcpClient.dll" target="be\Igloocoder.MF.TcpClient.dll" />
-        <file src="src\bin\Release\be\Igloocoder.MF.TcpClient.pdb" target="be\Igloocoder.MF.TcpClient.pdb" />
-        <file src="src\bin\Release\be\Igloocoder.MF.TcpClient.pdbx" target="be\Igloocoder.MF.TcpClient.pdbx" />
-        <file src="src\bin\Release\be\Igloocoder.MF.TcpClient.pe" target="be\Igloocoder.MF.TcpClient.pe" />
-        <file src="src\bin\Release\le\Igloocoder.MF.TcpClient.dll" target="le\Igloocoder.MF.TcpClient.dll" />
-        <file src="src\bin\Release\le\Igloocoder.MF.TcpClient.pdb" target="le\Igloocoder.MF.TcpClient.pdb" />
-        <file src="src\bin\Release\le\Igloocoder.MF.TcpClient.pdbx" target="le\Igloocoder.MF.TcpClient.pdbx" />
-        <file src="src\bin\Release\le\Igloocoder.MF.TcpClient.pe" target="le\Igloocoder.MF.TcpClient.pe" />
-        <file src="src\bin\Release\Igloocoder.MF.TcpClient.dll" target="Igloocoder.MF.TcpClient.dll" />
+        <file src="src\bin\Release\be\Igloocoder.MF.TcpClient.dll" target="lib\be\Igloocoder.MF.TcpClient.dll" />
+        <file src="src\bin\Release\be\Igloocoder.MF.TcpClient.pdb" target="lib\be\Igloocoder.MF.TcpClient.pdb" />
+        <file src="src\bin\Release\be\Igloocoder.MF.TcpClient.pdbx" target="lib\be\Igloocoder.MF.TcpClient.pdbx" />
+        <file src="src\bin\Release\be\Igloocoder.MF.TcpClient.pe" target="lib\be\Igloocoder.MF.TcpClient.pe" />
+        <file src="src\bin\Release\le\Igloocoder.MF.TcpClient.dll" target="lib\le\Igloocoder.MF.TcpClient.dll" />
+        <file src="src\bin\Release\le\Igloocoder.MF.TcpClient.pdb" target="lib\le\Igloocoder.MF.TcpClient.pdb" />
+        <file src="src\bin\Release\le\Igloocoder.MF.TcpClient.pdbx" target="lib\le\Igloocoder.MF.TcpClient.pdbx" />
+        <file src="src\bin\Release\le\Igloocoder.MF.TcpClient.pe" target="lib\le\Igloocoder.MF.TcpClient.pe" />
+        <file src="src\bin\Release\Igloocoder.MF.TcpClient.dll" target="lib\Igloocoder.MF.TcpClient.dll" />
     </files>
 </package>
