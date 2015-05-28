@@ -3,7 +3,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Text;
 
-namespace Netduino.Contrib.TcpClient {
+namespace Igloocoder.MF.TcpClient {
     public class TcpClient : IDisposable
     {
         private readonly IPAddress _host;
